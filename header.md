@@ -1,3 +1,2 @@
-[/home](Home)
-
-[/about](About me)
+[Home](/)
+[About](/about)
